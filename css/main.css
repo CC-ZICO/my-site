@@ -28,7 +28,7 @@ img {
 /* header */
 
 .header {
-    background: cornflowerblue;
+    background: rebeccapurple;
     min-height: 100dvh;
     transition: 0.4s;
     display: flex;
